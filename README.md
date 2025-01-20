@@ -1,4 +1,4 @@
-# C++ Module: Subtype Polymorphism, Abstract Classes, and Interfaces
+# C++ Module 04:
 
 ## Overview
 
